@@ -81,7 +81,7 @@
       .state('app.priceNew', {
           url: '/price/new',
           templateUrl: 'app/components/prices/views/priceFormView.html',
-          controller: 'AlertCtrl'
+          controller: 'PriceCtrl'
       })
       .state('app.priceEdit', {
           url: '/price/:id/edit',
