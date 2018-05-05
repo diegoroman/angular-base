@@ -1,0 +1,42 @@
+<div class="imm-menu__wrp" ng-class="{'imm-menu__collapsed': thisHide == true}">
+    <div class="imm-menu__hdr" ng-class="{'imm-menu__collapsed': thisHide == true}">
+        <a ng-href="/" class="imm-menu__tit">
+            <img src="/assets/images/logo_pva.svg" width="90px" title="ADMIN" alt="ADMIN" ng-show="!thisHide" style="margin: 25%;" />
+        </a>
+        <a class="imm-menu__tools-btn" ng-click="hideItems()"></a>
+    </div>
+
+    <nav class="imm-menu__nav" ng-class="{'imm-menu__collapsed': thisHide == true}">
+        <a class="imm-menu__nav-item" ui-sref-active="imm-menu__nav-item--selected" ui-sref="app.catalogs.dashboard">
+            <i class="imm-icon imm-icon--catalogos-ico"></i> <span ng-show="!thisHide"> {{ 'navigation.catalogs' | translate }} </span>
+        </a>
+        <a href="#" class="imm-menu__nav-item" ui-sref-active="imm-menu__nav-item--selected" ui-sref="app.prices">
+            <i class="imm-icon imm-icon--analytics-ico"></i> <span ng-show="!thisHide">{{ 'navigation.prices' | translate }}</span>
+        </a>
+    </nav>
+
+    <div class="imm-user" ng-class="{'active': userToolsActive == true , 'imm-menu__collapsed': thisHide == true}" ng-show="!thisHide">
+        <div class="imm-user__cnt">
+            <img src="/assets/images/pernodLogoWhite.png" style="width: 50px; margin-bottom: 20px" />
+            <!-- <img class="imm-user__pic" src="/assets/images/catalogos/usuarios.svg" alt="{{ userName }}" title="{{ userName }}" /> -->
+            <div class="imm-user__tools">
+                <div class="imm-user__toggle" ng-click="toggleActive()" ng-show="!thisHide">
+                    <!-- <div class="imm-user__name">{{ firstName }} {{ lastName }}</div> -->
+                    <!--<div class="imm-user__name">{{ userName }}</div>-->
+                    <div class="imm-user__name">{{userName}}</div>
+                    <div class="imm-user__profile">{{userArea}}</div>
+                </div>
+                <div class="imm-user__options">
+                    <button class="imm-user__options-btn">
+                        <!--<i class="imm-icon imm-icon--change-profile"></i>-->
+                        <span ng-show="!thisHide"></span>
+                    </button>
+                    <button class="imm-user__options-btn" ng-click="logout()">
+                        <i class="imm-icon imm-icon--close-session"></i>
+                        <span ng-show="!thisHide">{{ 'navigation.logout' | translate }}</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

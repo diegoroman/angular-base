@@ -1,0 +1,36 @@
+<div class="imm-wa__hdr imm-flex">
+  <div class="imm-flex-5">
+    <h1 class="imm-wa__tit">
+      <a class="imm-bc-item" ui-sref="app.prices">{{ 'prices.title' | translate }}</a>
+    </h1>
+
+    <div class="imm-bc">
+      <a class="imm-bc-item"><span>{{ price.id ? 'prices.edit_price' : 'prices.new_price' | translate }}</span></a>
+    </div>
+  </div>
+
+  <div class="imm-wa__cnt">
+    <form class="imm-frm imm-frm--center">
+      <div class="imm-frm__fldgrp">
+        <div class="imm-frm__fld">
+            <label class="imm-frm__lbl">
+                <input type="text" ng-model="price.id" readonly>
+                <b class="imm-frm__lbl-name">{{ 'prices.id' | translate }}</b>
+            </label>
+        </div>
+
+        <div class="imm-frm__fld">
+            <label class="imm-frm__lbl">
+                <input type="text" ng-model="price.name">
+                <b class="imm-frm__lbl-name">{{ 'prices.name' | translate }}</b>
+            </label>
+        </div>
+      </div>
+    </form>
+  </div>
+
+  <div class="imm-wa__actions">
+    <p ng-if="error" class="err-display">{{error}}</p>
+    <button class="imm-btn imm-btn--alt" ui-sref="app.prices">{{ 'pvas.back' | translate }}</button>
+  <button class="imm-btn" ng-disabled="sendingData" ng-click="save()">{{ 'pvas.save' | translate }}</button>
+</div>

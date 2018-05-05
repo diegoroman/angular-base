@@ -1,0 +1,51 @@
+<div class="imm-wa__hdr imm-flex">
+    <div class="imm-flex-5">
+        <h1 class="imm-wa__tit">
+            <a class="imm-bc-item" ui-sref="app.catalogs.dashboard">{{ 'catalogs.title' | translate }}</a>
+        </h1>
+        <div class="imm-bc">
+            <a class="imm-bc-item" ui-sref="app.catalogs.users">{{ 'catalogs.users.title' | translate }}</a>
+        </div>
+        <div class="imm-btn__right">
+            <a ui-sref="app.catalogs.userNew" class="imm-btn imm-btn--round">&#43; {{ 'catalogs.users.add_user' | translate }}</a>
+        </div>
+    </div>
+</div>
+<div class="imm-wa__cnt">
+    <table>
+        <thead>
+            <tr>
+                <th>{{ 'catalogs.users.name' | translate }}</th>
+                <th>{{ 'catalogs.users.email' | translate }}</th>
+                <th class="imm-cstm__grid-5"></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><input class="field-filter" ng-model="filter.name"></td>
+                <td><input class="field-filter" ng-model="filter.email"></td>
+                <td></td>
+            </tr>
+            <tr ng-repeat="user in users">
+                <td>{{user.name}}</td>
+                <td>{{user.email}}</td>
+                <td>
+                    <a ui-sref="app.catalogs.userEdit({id: user.id})">
+                        <img src="assets/images/icons/pencil-ico.svg">
+                    </a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<paging
+    ng-show="total>pageSize"
+    page="currentPage"
+    page-size="pageSize"
+    total="total"
+    hide-if-empty="true"
+    show-prev-next="true"
+    show-first-last="true"
+    paging-action="pager(page)">
+</paging>

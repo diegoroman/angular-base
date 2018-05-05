@@ -1,0 +1,39 @@
+<div class="imm-wa__hdr imm-flex">
+    <div class="imm-flex-5">
+        <h1 class="imm-wa__tit">
+            <a class="imm-bc-item" ui-sref="app.catalogs.dashboard">{{ 'catalogs.title' | translate }}</a>
+        </h1>
+        <div class="imm-bc">
+            <a class="imm-bc-item" ui-sref="app.catalogs.users">{{ 'catalogs.users.title' | translate }}</a>
+        </div>
+        <div class="imm-bc" ng-if="user.name">
+            <span class="imm-bc-item imm-bc--head">{{user.name}}</span>
+        </div>
+    </div>
+</div>
+
+<div class="imm-wa__cnt">
+    <form class="imm-frm imm-frm--center">
+        <div class="imm-frm__fldgrp">
+            <div class="imm-frm__fld">
+                <label class="imm-frm__lbl">
+                    <input type="text" ng-model="user.name">
+                    <b class="imm-frm__lbl-name">{{ 'catalogs.users.name' | translate }}</b>
+                </label>
+            </div>
+
+            <div class="imm-frm__fld">
+                <label class="imm-frm__lbl">
+                    <input type="text" ng-model="user.email">
+                    <b class="imm-frm__lbl-name">{{ 'catalogs.users.email' | translate }}</b>
+                </label>
+            </div>
+        </div>      
+    </form>
+</div>
+
+<div class="imm-wa__actions">
+    <p class="err-display">{{error}}</p>
+    <button class="imm-btn imm-btn--alt" ui-sref="app.catalogs.users">{{ 'catalogs.users.back' | translate }}</button>
+    <button class="imm-btn" ng-disabled="sendingData" ng-click="save()">{{ 'catalogs.users.save' | translate }}</button>
+</div>

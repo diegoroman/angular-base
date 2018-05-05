@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="110px" viewBox="0 0 110 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>catalogos/sku</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="55" cy="55" r="55"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="110" height="110" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="IMM-desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="catalogos/sku">
+            <use id="Oval-4" stroke="#CCCCCC" mask="url(#mask-2)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <circle id="Oval-4-Copy" fill="#FBE665" cx="55" cy="55" r="50"></circle>
+            <g id="Group-41" transform="translate(23.000000, 33.000000)">
+                <rect id="Rectangle-56" fill="#FFFFFF" x="0" y="0" width="65" height="44" rx="3"></rect>
+                <rect id="Rectangle-57" fill="#342A44" x="4" y="4" width="6" height="30"></rect>
+                <rect id="Rectangle-57-Copy" fill="#342A44" x="13" y="4" width="3" height="30"></rect>
+                <rect id="Rectangle-57-Copy-2" fill="#342A44" x="18" y="4" width="1" height="30"></rect>
+                <rect id="Rectangle-57-Copy-3" fill="#342A44" x="21" y="4" width="5" height="30"></rect>
+                <rect id="Rectangle-57-Copy-6" fill="#342A44" x="39" y="4" width="6" height="30"></rect>
+                <rect id="Rectangle-57-Copy-7" fill="#342A44" x="47" y="4" width="3" height="30"></rect>
+                <rect id="Rectangle-57-Copy-8" fill="#342A44" x="53" y="4" width="3" height="30"></rect>
+                <rect id="Rectangle-57-Copy-9" fill="#342A44" x="58" y="4" width="3" height="30"></rect>
+                <rect id="Rectangle-57-Copy-4" fill="#342A44" x="28" y="4" width="3" height="30"></rect>
+                <rect id="Rectangle-57-Copy-5" fill="#342A44" x="34" y="4" width="3" height="30"></rect>
+                <text id="496278297835" font-family="HelveticaNeueLTStd-Bd, Helvetica Neue LT Std" font-size="6" font-weight="bold" letter-spacing="1.5" fill="#342A44">
+                    <tspan x="4.734" y="41">49627829783</tspan>
+                    <tspan x="57.93" y="41">5</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<label class="imm-frm__lbl">
+  <ui-select ng-model="model" class="imm-select imm-select--input" theme="selectize"
+             title="{{title}}" append-to-body="true">
+    <ui-select-match placeholder="{{placeholder}}">{{$select.selected.name}}
+    </ui-select-match>
+    <ui-select-choices
+        repeat="item.id as item in array | filter: $select.search.name">
+      <div ng-bind-html="item.name"></div>
+    </ui-select-choices>
+  </ui-select>
+  <b class="imm-frm__lbl-name">{{title}}</b>
+</label>

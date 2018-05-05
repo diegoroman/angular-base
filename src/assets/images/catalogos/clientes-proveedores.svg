@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="110px" viewBox="0 0 110 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>catalogos/clientes-proveedores</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="55" cy="55" r="55"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="110" height="110" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <polygon id="path-3" points="14.5072464 23.7452886 11.7173913 30.8123388 18.692029 25.4413807"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-5" points="21.7608696 23.7452886 18.9710145 30.8123388 25.9456522 25.4413807"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-7" points="14.5072464 23.7452886 11.7173913 30.8123388 18.692029 25.4413807"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-9" points="21.7608696 23.7452886 18.9710145 30.8123388 25.9456522 25.4413807"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-11" points="18.2 29.5774648 14.7 38.3802817 23.45 31.6901408"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-13" points="27.3 29.5774648 23.8 38.3802817 32.55 31.6901408"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="IMM-desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="catalogos/clientes-proveedores">
+            <use id="Oval-4" stroke="#CCCCCC" mask="url(#mask-2)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <circle id="Oval-4-Copy" fill="#79CDD1" cx="55" cy="55" r="50"></circle>
+            <g id="Group-58" transform="translate(17.000000, 29.000000)">
+                <g id="Group-56" transform="translate(38.500000, 9.859155)">
+                    <path d="M38.5,40.1408451 L38.5,36.748661 C38.5,33.3132446 35.7496804,30.5296568 32.3569892,30.5296568 L6.14301083,30.5296568 C2.75337446,30.5296568 0,33.3139998 0,36.748661 L0,40.1408451 L38.5,40.1408451 Z" id="Combined-Shape" fill="#F0716C"></path>
+                    <polygon id="Path-19" fill="#F5F5F5" points="15.6231884 25.1586987 11.9963768 30.2469748 14.7862319 40.1408451 22.8768116 40.1408451 25.9456522 30.5296568 21.7608696 25.1586987"></polygon>
+                    <polygon id="Combined-Shape" fill="#BF504C" points="20.9412821 40.1408451 16.4601449 40.1408451 18.134058 30.8123388 15.3442029 27.1374727 18.692029 25.4477106 22.0572241 27.1374727 19.267369 30.8123388"></polygon>
+                    <g id="Path-18">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="Path-18-Copy" transform="translate(22.458333, 27.278814) scale(-1, 1) translate(-22.458333, -27.278814) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    </g>
+                    <polygon id="Path-17" fill="#BF504C" points="12.8333333 28.2682008 15.6231884 40.1408451 13.3913043 40.1408451 8.92753623 31.0950208"></polygon>
+                    <polygon id="Path-17-Copy" fill="#BF504C" transform="translate(25.108696, 34.204523) scale(-1, 1) translate(-25.108696, -34.204523) " points="25.6666667 28.2682008 28.4565217 40.1408451 26.2246377 40.1408451 21.7608696 31.0950208"></polygon>
+                    <ellipse id="Oval-24" fill="#BF504C" cx="18.9710145" cy="13.0033723" rx="10.0434783" ry="13.0033723"></ellipse>
+                </g>
+                <g id="Group-56-Copy-2" transform="translate(0.000000, 9.859155)">
+                    <path d="M38.5,40.1408451 L38.5,36.748661 C38.5,33.3132446 35.7496804,30.5296568 32.3569892,30.5296568 L6.14301083,30.5296568 C2.75337446,30.5296568 0,33.3139998 0,36.748661 L0,40.1408451 L38.5,40.1408451 Z" id="Combined-Shape" fill="#479DB8"></path>
+                    <polygon id="Path-19" fill="#F5F5F5" points="15.6231884 25.1586987 11.9963768 30.2469748 14.7862319 40.1408451 22.8768116 40.1408451 25.9456522 30.5296568 21.7608696 25.1586987"></polygon>
+                    <polygon id="Combined-Shape" fill="#2F758A" points="20.9412821 40.1408451 16.4601449 40.1408451 18.134058 30.8123388 15.3442029 27.1374727 18.692029 25.4477106 22.0572241 27.1374727 19.267369 30.8123388"></polygon>
+                    <g id="Path-18">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    </g>
+                    <g id="Path-18-Copy" transform="translate(22.458333, 27.278814) scale(-1, 1) translate(-22.458333, -27.278814) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                    </g>
+                    <polygon id="Path-17" fill="#2F758A" points="12.8333333 28.2682008 15.6231884 40.1408451 13.3913043 40.1408451 8.92753623 31.0950208"></polygon>
+                    <polygon id="Path-17-Copy" fill="#2F758A" transform="translate(25.108696, 34.204523) scale(-1, 1) translate(-25.108696, -34.204523) " points="25.6666667 28.2682008 28.4565217 40.1408451 26.2246377 40.1408451 21.7608696 31.0950208"></polygon>
+                    <ellipse id="Oval-24" fill="#2F758A" cx="18.9710145" cy="13.0033723" rx="10.0434783" ry="13.0033723"></ellipse>
+                </g>
+                <g id="Group-56-Copy" transform="translate(14.000000, 0.000000)">
+                    <path d="M48.3,50 L48.3,45.7746479 C48.3,41.4954451 44.849599,38.028169 40.5933137,38.028169 L7.70668631,38.028169 C3.45423341,38.028169 0,41.4963857 0,45.7746479 L0,50 L48.3,50 Z" id="Combined-Shape" fill="#1B4962"></path>
+                    <polygon id="Path-19" fill="#F5F5F5" points="19.6 31.3380282 15.05 37.6760563 18.55 50 28.7 50 32.55 38.028169 27.3 31.3380282"></polygon>
+                    <polygon id="Combined-Shape" fill="#0B2635" points="26.2717902 50 20.65 50 22.75 38.3802817 19.25 33.8028169 23.45 31.6980254 27.6717902 33.8028169 24.1717902 38.3802817"></polygon>
+                    <g id="Path-18">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                    </g>
+                    <g id="Path-18-Copy" transform="translate(28.175000, 33.978873) scale(-1, 1) translate(-28.175000, -33.978873) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-13"></use>
+                    </g>
+                    <polygon id="Path-17" fill="#0B2635" points="16.1 35.2112676 19.6 50 16.8 50 11.2 38.7323944"></polygon>
+                    <polygon id="Path-17-Copy" fill="#0B2635" transform="translate(31.500000, 42.605634) scale(-1, 1) translate(-31.500000, -42.605634) " points="32.2 35.2112676 35.7 50 32.9 50 27.3 38.7323944"></polygon>
+                    <ellipse id="Oval-24" fill="#0B2635" cx="23.8" cy="16.1971831" rx="12.6" ry="16.1971831"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

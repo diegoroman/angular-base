@@ -1,0 +1,8 @@
+node_modules
+dist
+bower_components
+.idea
+out
+.DS_Store
+*.iml
+src/env.js

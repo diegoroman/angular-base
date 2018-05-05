@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="110px" viewBox="0 0 110 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>catalogos/centro-costo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="55" cy="55" r="55"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="110" height="110" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <ellipse id="path-3" cx="23.0819672" cy="20.8427464" rx="20.9180328" ry="20.8427464"></ellipse>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.632653061   0 0 0 0 0.398251907   0 0 0 0 0.214079571  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="41.8360656" height="41.6854928" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="IMM-desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="catalogos/centro-costo">
+            <use id="Oval-4" stroke="#CCCCCC" mask="url(#mask-2)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <circle id="Oval-4-Copy" fill="#2F748C" cx="55" cy="55" r="50"></circle>
+            <g id="Group-57" transform="translate(33.000000, 26.000000)">
+                <rect id="Rectangle-67" fill="#0B2634" x="0" y="51.0287929" width="44" height="9.34330011" rx="4.67165006"></rect>
+                <g id="Oval-23">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use stroke="#E38F4D" mask="url(#mask-5)" stroke-width="6.99999988" fill="#F5C15A" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <path d="M22.328918,17.0393045 C20.2977049,16.5649524 19.4725246,15.9008594 19.4725246,14.5094264 C19.4725246,12.7701351 20.9007213,11.8846777 22.328918,11.8846777 L22.328918,17.0393045 Z M24.2014426,22.0674374 C26.7087213,22.7631539 27.6291148,23.364 27.6291148,25.0400443 C27.6291148,27.0639468 25.7565902,27.9810277 24.2014426,28.1391451 L24.2014426,22.0674374 Z M14.4262295,23.9648461 C14.9022951,28.929732 17.6317377,31.4912337 22.328918,31.8390919 L22.328918,34.5270875 L24.2014426,34.5270875 L24.2014426,31.8390919 C30.5172459,31.4279867 32.1358689,27.0323234 32.1358689,25.2297852 C32.1358689,23.1110122 32.008918,19.6008062 25.8200656,17.8931384 C25.2487869,17.735021 24.7092459,17.6085271 24.2014426,17.4820332 L24.2014426,11.8846777 C25.6296393,11.8846777 26.8039344,13.2444873 26.8356721,14.9205316 L31.3424262,14.9205316 C31.0885246,10.5564917 27.9782295,8.5958361 24.2014426,8.1847309 L24.2014426,5.74972315 L22.328918,5.74972315 L22.328918,8.1847309 C18.5203934,8.40609524 14.9657705,10.6197386 14.9657705,14.952155 C14.9657705,19.1580775 18.139541,20.3913931 21.3133115,21.245227 C21.7259016,21.3400975 22.1067541,21.4349679 22.328918,21.5298383 L22.328918,28.1391451 C20.392918,27.7596633 18.9012459,26.3049834 18.9329836,23.9648461 L14.4262295,23.9648461 Z" id="$" fill="#E38F4D"></path>
+            </g>
+        </g>
+    </g>
+</svg>

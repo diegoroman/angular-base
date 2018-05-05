@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="110px" viewBox="0 0 110 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>catalogos/impuestos</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="55" cy="55" r="55"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="110" height="110" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="IMM-desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="catalogos/impuestos">
+            <use id="Oval-4" stroke="#CCCCCC" mask="url(#mask-2)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <circle id="Oval-4-Copy" fill="#E46A5D" cx="55" cy="55" r="50"></circle>
+            <g id="Group-28" transform="translate(28.000000, 22.000000)">
+                <polygon id="Rectangle-36" fill="#F5F5F5" points="0 0 38 0 48 10 48 66 0 66"></polygon>
+                <polygon id="Rectangle-39" fill="#DFAE50" points="38 0 48 10 38 10"></polygon>
+                <rect id="Rectangle-40" fill="#85A4A9" x="7" y="15" width="14" height="2"></rect>
+                <rect id="Rectangle-40-Copy" fill="#85A4A9" x="7" y="21" width="34" height="2"></rect>
+                <g id="Group-39" transform="translate(7.000000, 29.000000)" fill="#85A4A9">
+                    <rect id="Rectangle-40-Copy-2" x="0" y="0" width="34" height="6"></rect>
+                    <rect id="Rectangle-40-Copy-10" x="0" y="0" width="1" height="30"></rect>
+                    <rect id="Rectangle-40-Copy-11" x="5" y="0" width="1" height="30"></rect>
+                    <rect id="Rectangle-40-Copy-12" x="19" y="0" width="1" height="30"></rect>
+                    <rect id="Rectangle-40-Copy-13" x="23" y="0" width="1" height="30"></rect>
+                    <rect id="Rectangle-40-Copy-14" x="33" y="0" width="1" height="30"></rect>
+                    <rect id="Rectangle-40-Copy-3" x="0" y="9" width="34" height="1"></rect>
+                    <rect id="Rectangle-40-Copy-5" x="0" y="13" width="34" height="1"></rect>
+                    <rect id="Rectangle-40-Copy-6" x="0" y="17" width="34" height="1"></rect>
+                    <rect id="Rectangle-40-Copy-7" x="0" y="21" width="34" height="1"></rect>
+                    <rect id="Rectangle-40-Copy-8" x="0" y="25" width="34" height="1"></rect>
+                    <rect id="Rectangle-40-Copy-9" x="0" y="29" width="34" height="1"></rect>
+                </g>
+            </g>
+            <g id="Group-40" transform="translate(60.000000, 53.000000)">
+                <rect id="Rectangle-54" fill="#28263B" x="0" y="0" width="27" height="35" rx="4"></rect>
+                <rect id="Rectangle-55" fill="#FFFFFF" x="4" y="4" width="19" height="8" rx="1"></rect>
+                <rect id="Rectangle-55-Copy" fill="#FFFFFF" x="4" y="15" width="5" height="4" rx="1"></rect>
+                <rect id="Rectangle-55-Copy-2" fill="#FFFFFF" x="11" y="15" width="5" height="4" rx="1"></rect>
+                <rect id="Rectangle-55-Copy-3" fill="#FFFFFF" x="18" y="15" width="5" height="4" rx="1"></rect>
+                <rect id="Rectangle-55-Copy-6" fill="#FFFFFF" x="4" y="21" width="5" height="4" rx="1"></rect>
+                <rect id="Rectangle-55-Copy-5" fill="#FFFFFF" x="11" y="21" width="5" height="4" rx="1"></rect>
+                <rect id="Rectangle-55-Copy-4" fill="#FFFFFF" x="18" y="21" width="5" height="4" rx="1"></rect>
+                <rect id="Rectangle-55-Copy-9" fill="#FFFFFF" x="4" y="27" width="5" height="4" rx="1"></rect>
+                <rect id="Rectangle-55-Copy-8" fill="#FFFFFF" x="11" y="27" width="5" height="4" rx="1"></rect>
+                <rect id="Rectangle-55-Copy-7" fill="#FFFFFF" x="18" y="27" width="5" height="4" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

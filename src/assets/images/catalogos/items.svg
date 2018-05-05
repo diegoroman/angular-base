@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="110px" viewBox="0 0 110 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>catalogos/items</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="55" cy="55" r="55"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="110" height="110" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="IMM-desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="catalogos/items">
+            <use id="Oval-4" stroke="#CCCCCC" mask="url(#mask-2)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <circle id="Oval-4-Copy" fill="#79CDD1" cx="55" cy="55" r="50"></circle>
+            <g id="Group-55" transform="translate(54.500000, 55.000000) rotate(-22.000000) translate(-54.500000, -55.000000) translate(30.000000, 18.000000)">
+                <rect id="Rectangle-66" fill="#F6C35B" x="14.4590164" y="29.4408602" width="29.7213115" height="29.4408602" rx="4.79999971"></rect>
+                <path d="M7.64170969,63.2631624 C7.64170969,64.8012457 8.9004501,66.0481086 10.4531851,66.0481086 L45.7961323,66.0481086 C47.3488673,66.0481086 48.6076077,64.8012457 48.6076077,63.2631624 C48.6076077,61.7250791 47.3488673,60.4782162 45.7961323,60.4782162 L13.2646605,60.4782162 L13.2646605,2.78494624 C13.2646605,1.2468629 12.0059201,0 10.4531851,0 L2.81147541,0 C1.25874042,0 0,1.2468629 0,2.78494624 C0,4.32302957 1.25874042,5.56989247 2.81147541,5.56989247 L7.64170969,5.56989247 L7.64170969,63.2631624 Z" id="Path-16" fill="#EC7472"></path>
+                <path d="M8.43442623,74 C3.77622125,74 0,70.2594113 0,65.6451613 C0,61.0309113 3.77622125,57.2903226 8.43442623,57.2903226 C13.0926312,57.2903226 16.8688525,61.0309113 16.8688525,65.6451613 C16.8688525,70.2594113 13.0926312,74 8.43442623,74 Z" id="Oval-22" fill="#0B2634"></path>
+                <path d="M8.43442623,69.2258065 C10.4307998,69.2258065 12.0491803,67.622697 12.0491803,65.6451613 C12.0491803,63.6676256 10.4307998,62.0645161 8.43442623,62.0645161 C6.43805267,62.0645161 4.81967213,63.6676256 4.81967213,65.6451613 C4.81967213,67.622697 6.43805267,69.2258065 8.43442623,69.2258065 Z" id="Path" fill="#FFFFFF"></path>
+                <polygon id="Combined-Shape" fill="#FFFFFF" points="39.3606557 49.3333333 41.7704918 49.3333333 36.147541 42.9677419 30.5245902 49.3333333 32.9344262 49.3333333 32.9344262 55.6989247 39.3606557 55.6989247"></polygon>
+                <g id="Group-54" transform="translate(14.459016, 6.365591)">
+                    <rect id="Rectangle-66-Copy-2" fill="#FFFFFF" x="0" y="0" width="23.295082" height="23.0752688" rx="4.79999971"></rect>
+                    <polygon id="Combined-Shape-Copy-52" fill="#F6C35B" points="19.5175011 15.5913978 21.4062915 15.5913978 16.9991139 10.6021505 12.5919362 15.5913978 14.4807266 15.5913978 14.4807266 20.5806452 19.5175011 20.5806452"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="110px" viewBox="0 0 110 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>catalogos/orientaciones</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="55" cy="55" r="55"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="110" height="110" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="IMM-desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="catalogos/orientaciones">
+            <use id="Oval-4" stroke="#CCCCCC" mask="url(#mask-2)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <circle id="Oval-4-Copy" fill="#2F748C" cx="55" cy="55" r="50"></circle>
+            <polygon id="Combined-Shape" fill="#4FBA97" points="66.3225806 46.9428571 66.3225806 57 88 41 66.3225806 25 66.3225806 35.0571429 32 35.0571429 32 46.9428571"></polygon>
+            <polygon id="Combined-Shape-Copy-53" fill="#F6D787" points="43.6774194 76.9428571 43.6774194 87 22 71 43.6774194 55 43.6774194 65.0571429 78 65.0571429 78 76.9428571"></polygon>
+        </g>
+    </g>
+</svg>

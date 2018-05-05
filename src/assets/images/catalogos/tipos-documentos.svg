@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="110px" viewBox="0 0 110 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>catalogos/tipos-documentos</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="55" cy="55" rx="55" ry="55"></ellipse>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="110" height="110" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <polygon id="path-3" points="36 48 36 6 30 0 1.42108547e-14 0 7.10542736e-15 48"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-5" points="36 48 36 6 30 0 1.42108547e-14 0 7.10542736e-15 48"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-7" points="36 48 36 6 30 0 1.42108547e-14 0 7.10542736e-15 48"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="IMM-desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="catalogos/tipos-documentos">
+            <use id="Oval-4" stroke="#CCCCCC" mask="url(#mask-2)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <ellipse id="Oval-4-Copy" fill="#F6D787" cx="55" cy="55" rx="50" ry="50"></ellipse>
+            <g id="Group-36" transform="translate(55.000000, 24.000000)">
+                <g id="Rectangle-36">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#F5F5F5" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <polygon id="Rectangle-39" fill="#50667E" points="36 6 30 0 30 6"></polygon>
+                <rect id="Rectangle-50" fill="#50667E" x="5" y="15" width="8" height="2"></rect>
+                <rect id="Rectangle-50-Copy-6" fill="#50667E" x="5" y="19" width="26" height="2"></rect>
+                <rect id="Rectangle-50-Copy-30" fill="#50667E" x="5" y="23" width="26" height="2"></rect>
+                <rect id="Rectangle-50-Copy-31" fill="#50667E" x="5" y="27" width="26" height="2"></rect>
+                <rect id="Rectangle-50-Copy-32" fill="#50667E" x="5" y="31" width="26" height="2"></rect>
+            </g>
+            <g id="Group-36-Copy" transform="translate(39.000000, 45.000000)">
+                <g id="Rectangle-36">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use fill="#F5F5F5" fill-rule="evenodd" xlink:href="#path-5"></use>
+                </g>
+                <polygon id="Rectangle-39" fill="#4FBA97" points="36 6 30 0 30 6"></polygon>
+                <rect id="Rectangle-50" fill="#D8D8D8" x="5" y="15" width="8" height="2"></rect>
+                <rect id="Rectangle-50-Copy-6" fill="#4FBA97" x="5" y="19" width="26" height="2"></rect>
+                <rect id="Rectangle-50-Copy-30" fill="#4FBA97" x="5" y="23" width="26" height="2"></rect>
+                <rect id="Rectangle-50-Copy-31" fill="#4FBA97" x="5" y="27" width="26" height="2"></rect>
+                <rect id="Rectangle-50-Copy-32" fill="#4FBA97" x="5" y="31" width="26" height="2"></rect>
+            </g>
+            <g id="Group-36-Copy-3" transform="translate(19.000000, 31.000000)">
+                <g id="Rectangle-36-Copy">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                    <use fill="#F5F5F5" fill-rule="evenodd" xlink:href="#path-7"></use>
+                </g>
+                <polygon id="Rectangle-39" fill="#E4716B" points="36 6 30 0 30 6"></polygon>
+                <rect id="Rectangle-50" fill="#E4716B" x="5" y="15" width="8" height="2"></rect>
+                <rect id="Rectangle-50-Copy-6" fill="#E4716B" x="5" y="19" width="26" height="2"></rect>
+                <rect id="Rectangle-50-Copy-30" fill="#E4716B" x="5" y="23" width="26" height="2"></rect>
+                <rect id="Rectangle-50-Copy-31" fill="#E4716B" x="5" y="27" width="26" height="2"></rect>
+                <rect id="Rectangle-50-Copy-32" fill="#E4716B" x="5" y="31" width="26" height="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

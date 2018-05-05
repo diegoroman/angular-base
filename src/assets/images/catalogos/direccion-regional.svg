@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="110px" viewBox="0 0 110 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>catalogos/direccion-regional</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="55" cy="55" r="55"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="110" height="110" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="IMM-desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="catalogos/direccion-regional">
+            <use id="Oval-4" stroke="#CCCCCC" mask="url(#mask-2)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <circle id="Oval-4-Copy" fill="#F6C35B" cx="55" cy="55" r="50"></circle>
+            <g id="Group-64" transform="translate(33.000000, 23.000000)">
+                <g id="Group-63" transform="translate(6.000000, 8.000000)">
+                    <polygon id="Mask" fill="#D1D1CF" points="20 2 42 2 34 18 42 34 20 34"></polygon>
+                    <polygon id="Combined-Shape" fill="#A73334" points="40 6 34 18 39.5 29 20 29 20 6"></polygon>
+                    <polygon id="Rectangle-76" fill-opacity="0.3" fill="#000000" points="20 32 27 32 20 34"></polygon>
+                    <g id="Group-62">
+                        <rect id="Rectangle-74" fill="#FDFAF1" x="0" y="0" width="27" height="32"></rect>
+                        <rect id="Rectangle-75" fill="#CC5960" x="0" y="4" width="27" height="23"></rect>
+                    </g>
+                </g>
+                <path d="M3,6.66318442 L3,61 C2.44371665,61 2,61.4472481 2,61.9989566 L2,63 L0.997544646,63 C0.446311399,63 0,63.4477153 0,64 L0,65 L9,65 L9,64 C9,63.4438648 8.55338405,63 8.00245535,63 L7,63 L7,61.9989566 C7,61.4426603 6.55237094,61 6.00019251,61 L6,6.66318442 C7.18247367,6.10145245 8,4.89619798 8,3.5 C8,1.56700338 6.43299662,0 4.5,0 C2.56700338,0 1,1.56700338 1,3.5 C1,4.89619798 1.81752633,6.10145245 3,6.66318442 Z" id="Combined-Shape" fill="#354461"></path>
+            </g>
+        </g>
+    </g>
+</svg>

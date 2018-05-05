@@ -1,0 +1,74 @@
+{
+  "navigation": {
+    "catalogs" : "Catálogos",
+    "prices"   : "Manejo de Precios",
+    "logout"   : "Logout"
+  },
+
+  "session": {
+    "title"               : "Admin",
+    "user"                : "Usuario",
+    "password"            : "Clave",
+    "enter"               : "Ingresar",
+    "error_email"         : "Error: El e-mail no puede estar vacío",
+    "error_password"      : "Error: La clave no puede estar vacía",
+    "error_email_password": "Error: Clave o e-mail incorrecto"
+  },
+
+  "catalogs": {
+    "title" : "Catálogos",
+
+    "users": {
+      "title"         : "Usuarios",
+      "user"          : "Usuario",
+      "name"          : "Nombre",
+      "email"         : "Email",
+      "password"      : "Contraseña",
+      "add_user"      : "Agregar usuario",
+      "delete_user"   : "Borrar usuario",
+      "confirm_delete": "¿Estás seguro?",
+      "error_name"    : "Error: Ingrese un Nombre",
+      "error_email"   : "Error: Ingrese un e-mail válido",
+      "save"          : "Guardar",
+      "confirm"       : "Confirmar",
+      "cancel"        : "Cancelar",
+      "back"          : "Atrás"
+    }
+  },
+
+  "prices": {
+    "title"         : "Precios",
+    "price"         : "Precio",
+    "id"            : "ID",
+    "name"          : "Nombre",
+    "add_price"     : "Agregar precio",
+    "save"          : "Guardar",
+    "confirm"       : "Confirmar",
+    "cancel"        : "Cancelar",
+    "back"          : "Atrás"
+  },
+
+  "general": {
+    "cancel"        : "Cancelar",
+    "create"        : "Crear",
+    "edit"          : "Editar",
+    "new"           : "Nuevo",
+    "delete"        : "Borrar",
+    "back"          : "Atrás",
+    "save"          : "Guardar",
+    "clear_filters" : "Limpiar Filtros",
+    "sort_asc"      : "Ordenar Ascendente",
+    "sort_desc"     : "Ordenar Descendente"
+  },
+
+  "shared": {
+    "modal" : {
+      "confirmation"  : "Confirmacion",
+      "are_you_sure"  : "¿Estás seguro?",
+      "delete"        : "Borrar",
+      "confirm_delete": "¿Seguro que quieres borrar?",
+      "cancel"        : "Cancelar",
+      "accept"        : "Aceptar"
+    }
+  }
+}
